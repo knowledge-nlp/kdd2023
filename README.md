@@ -1,3 +1,1 @@
-**Knowledge Augmented NLP workshop at AAAI 2023**
-
-TBD
+**Knowledge Augmented NLP workshop website**
